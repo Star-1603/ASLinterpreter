@@ -60,7 +60,7 @@ model = Sequential([
 model.compile(optimizer='adam', loss='categorical_crossentropy', metrics=['accuracy'])
 
 # Train the model
-model.fit(train_generator, epochs=10, validation_data=test_generator)
+model.fit(train_generator, epochs=20, validation_data=test_generator)
 
 # Save the model for later use
 model.save('asl_model.h5')

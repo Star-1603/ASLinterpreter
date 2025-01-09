@@ -1,0 +1,1 @@
+ASL Interpreter is a project that helps the diasabled: Interprets the American Sign Language to those who are unaware. It can be used to create barrier less communication. The model is constantly under change, and soon the accuracy should be well enough.
